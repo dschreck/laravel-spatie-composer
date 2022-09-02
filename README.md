@@ -1,3 +1,6 @@
+# Docker Hub
+[https://hub.docker.com/repository/docker/dschreck/laravel-spatie-composer](https://hub.docker.com/repository/docker/dschreck/laravel-spatie-composer)
+
 # About
 When using [Laravel](https://laravel.com/) and [Sail](https://laravel.com/docs/9.x/sail#main-content) it's preferred to avoid installing PHP and composer locally. This can be solved by using composer directly from Docker Hub.
 
